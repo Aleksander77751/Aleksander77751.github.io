@@ -73,8 +73,8 @@ color: #727272;
 .banner__buttom{
 width: 225px;
 height: 65px;
-margin-right: 720px;
-margin-top: 482px;
+left: 720px;
+top: 482px;
 background: #34547A;
 
 font-family: Roboto;
